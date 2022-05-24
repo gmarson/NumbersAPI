@@ -1,2 +1,3 @@
 # NumbersAPI
-Simple MVVM example
+
+Simple MVVM example consuming the numbers API
